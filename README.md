@@ -18,7 +18,7 @@ they occur, as well as estimates of any fatalities, injuries, and property
 damage.
 >
 >## Data  
-The data for this assignment come in the form of a comma-separated-value file
+>The data for this assignment come in the form of a comma-separated-value file
 compressed via the bzip2 algorithm to reduce its size. You can download the file
 from the course web site [storm data][1] (47 Mb).
 >
