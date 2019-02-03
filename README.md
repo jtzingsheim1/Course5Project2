@@ -1,11 +1,11 @@
-#Course 5 Project 2 README
+#Course 5 Project 2 README  
 Health and Economic Impacts of Storm Events  
 For the Coursera Data Science Specialization Course 5 Project 2
 
-##Introduction
+##Introduction  
 An excerpt from the original instructions for the assignment is shown below:
 
->##Introduction
+>##Introduction  
 >Storms and other severe weather events can cause both public health and
 economic problems for communities and municipalities. Many severe events can
 result in fatalities, injuries, and property damage, and preventing such
@@ -17,7 +17,7 @@ major storms and weather events in the United States, including when and where
 they occur, as well as estimates of any fatalities, injuries, and property
 damage.
 >
->##Data
+>##Data  
 The data for this assignment come in the form of a comma-separated-value file
 compressed via the bzip2 algorithm to reduce its size. You can download the file
 from the course web site [storm data][1] (47 Mb).
@@ -38,14 +38,14 @@ the earlier years of the database there are generally fewer events recorded,
 most likely due to a lack of good records. More recent years should be
 considered more complete.
 >
->##Assignment
+>##Assignment  
 >The basic goal of this assignment is to explore the NOAA Storm Database and
 answer some basic questions about severe weather events. You must use the
 database to answer the questions below and show the code for your entire
 analysis. Your analysis can consist of tables, figures, or other summaries.
 You may use any R package you want to support your analysis.
 >
->###Questions
+>###Questions  
 >Your data analysis must address the following questions:
 >
 >1. Across the United States, which types of events (as indicated in the `EVTYPE`
@@ -58,7 +58,7 @@ municipal manager who might be responsible for preparing for severe weather
 events and will need to prioritize resources for different types of events.
 However, there is no need to make any specific recommendations in your report.
 
-##Additional Details
+##Additional Details  
 The project began with an R script which loaded and processed the data. The
 script then produced the required plots. The R script was then translated into
 an R markdown file. `Knitr` was then used to generate markdown and html files.
